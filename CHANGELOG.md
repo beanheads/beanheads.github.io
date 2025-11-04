@@ -14,6 +14,13 @@
 
 ---
 
+## 11/4/2025
+
+### Patch Notes:
+- Notifications now refresh with the Home Screen
+- Fixed inconsistent user pages
+- Fixed issue with cafes displaying with incorrect name
+
 ## 10/30/2025
 
 ### Patch Notes:
