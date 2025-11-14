@@ -1,6 +1,5 @@
 ## Roadmap
 
-- [ ] New revamped create post experience
 - [ ] Add functionality for searching with beans, cafes, etc.
 - [ ] Improve search features to discover better content
 - [ ] Create a fully functional pantry page
@@ -8,11 +7,22 @@
 - [ ] Add tagging friends to posts, mentions
 - [ ] Map of locations a user has posted on their profile
 - [ ] Informational pages for Beans and Cafes
-- [ ] Enable review options to edit, delete, and hide from public feed
+- [ ] Enable review options to edit and delete
 - [ ] Enable Android deployment
 - [ ] Public Beta launch
 
 ---
+
+## 11/14/2025
+
+### Patch Notes:
+- Fully revamped create review page (adding new machine and grinder being added shortly)
+- Users can now search for beans
+- Users can now search Equipment for grinders and machines
+- Users can view average ratings for beans and machines in search (grinders in progress)
+- Added profile pictures to notifications
+- Bug fixes for viewing review through notification  
+- Open comments upon clicking a comment notification
 
 ## 11/4/2025
 
