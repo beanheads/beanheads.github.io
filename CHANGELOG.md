@@ -23,6 +23,7 @@
 - Added profile pictures to notifications
 - Bug fixes for viewing review through notification  
 - Open comments upon clicking a comment notification
+- Added Coffee Boba and Shaken Espresso to types
 
 ## 11/4/2025
 
