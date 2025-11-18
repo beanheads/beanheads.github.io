@@ -13,6 +13,17 @@
 
 ---
 
+## 11/18/2025
+
+### Patch Notes:
+- Enhanced sign in/sign up pages keyboard experience
+- Large modals now open to full screen length by default
+- Modified create selection modals
+- Fixed drink addition naming bug
+- Fixed bug where cafe would persist even if switching to home post
+- Users can add machines and grinders again through create page
+- Added Cold Coffee as a type
+
 ## 11/14/2025
 
 ### Patch Notes:
