@@ -13,6 +13,14 @@
 
 ---
 
+## 11/24/2025
+
+### Patch Notes:
+- Fixed bug for iced drinks having a duplicate iced in the name
+- Spacing tweaks on home page for more beanheads content on your feed
+- Fixed bugs and improved performance for comment modal
+- Added Cold Coffee type 
+
 ## 11/18/2025
 
 ### Patch Notes:
