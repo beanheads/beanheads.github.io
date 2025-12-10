@@ -13,6 +13,16 @@
 
 ---
 
+## 12/10/2025
+
+### Patch Notes:
+Patch Notes:
+- User profiles include a map of cafes visited 
+- Drink name and addition bug fixes 
+- Create page performance improvements
+- Haptics for create page and like + comment buttons
+- Added Carajillo to drink types
+
 ## 11/24/2025
 
 ### Patch Notes:
