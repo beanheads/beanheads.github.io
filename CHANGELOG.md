@@ -1,19 +1,109 @@
 ## Roadmap
 
-- [ ] Allowing users to stay signed in.
 - [ ] Add functionality for searching with beans, cafes, etc.
-- [ ] Add a public feed
 - [ ] Improve search features to discover better content
 - [ ] Create a fully functional pantry page
 - [ ] Enable notifications
 - [ ] Add tagging friends to posts, mentions
-- [ ] Displaying more cafe information in posts
 - [ ] Map of locations a user has posted on their profile
-- [ ] Enable editing reviews
+- [ ] Informational pages for Beans and Cafes
+- [ ] Enable review options to edit and delete
 - [ ] Enable Android deployment
 - [ ] Public Beta launch
 
 ---
+
+## 12/10/2025
+
+### Patch Notes:
+Patch Notes:
+- User profiles include a map of cafes visited 
+- Drink name and addition bug fixes 
+- Create page performance improvements
+- Haptics for create page and like + comment buttons
+- Added Carajillo to drink types
+
+## 11/24/2025
+
+### Patch Notes:
+- Fixed bug for iced drinks having a duplicate iced in the name
+- Spacing tweaks on home page for more beanheads content on your feed
+- Fixed bugs and improved performance for comment modal
+
+## 11/18/2025
+
+### Patch Notes:
+- Enhanced sign in/sign up pages keyboard experience
+- Large modals now open to full screen length by default
+- Modified create selection modals
+- Fixed drink addition naming bug
+- Fixed bug where cafe would persist even if switching to home post
+- Users can add machines and grinders again through create page
+- Added Cold Coffee as a type
+
+## 11/14/2025
+
+### Patch Notes:
+- Fully revamped create review page (adding new machine and grinder being added shortly)
+- Users can now search for beans
+- Users can now search Equipment for grinders and machines
+- Users can view average ratings for beans and machines in search (grinders in progress)
+- Added profile pictures to notifications
+- Bug fixes for viewing review through notification  
+- Open comments upon clicking a comment notification
+- Added Coffee Boba and Shaken Espresso to types
+
+## 11/4/2025
+
+### Patch Notes:
+- Notifications now refresh with the Home Screen
+- Fixed inconsistent user pages
+- Fixed issue with cafes displaying with incorrect name
+
+## 10/30/2025
+
+### Patch Notes:
+- Users are now internally notified when a post is liked or commented on, or if they are gain a follower
+- Users now appear first in the search page under ‘All’
+- Outlined button for Following/Public feed toggle
+- Added Instant Coffee and Frappuccino to coffee types
+- Fixed spacing issue for own posts
+- Fixed bug for app display name
+
+
+## 10/26/2025
+
+### Patch Notes:
+- Updated logo
+- Users can now delete their posts
+
+## 10/25/2025
+
+### Patch Notes:
+- Users can now follow users they do not already directly from their posts
+
+## 10/21/2025
+
+### Patch Notes:
+- Users should see cafe search results based on their current location if they allow
+
+## 10/15/2025
+
+### Patch Notes:
+- App login now supports password autofill/managers
+- State within the US or country name is now displayed alongside the city for cafe reviews
+
+## 10/9/2025
+
+### Patch Notes:
+
+- Separated roaster and bean in a post 
+- Disabled share buttons on posts and profiles 
+- Fixed spacing of coffee info in a post without a bean
+- Fixed bug where brew parameters would not wrap properly in a post
+- Fixed bug for Drink name wrapping on a post 
+- Following/Followers modals now match comments/likes styling 
+
 
 ## 10/8/2025
 
