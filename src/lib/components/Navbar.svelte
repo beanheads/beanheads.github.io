@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { base } from '$app/paths';
+  import { base } from '$app/paths'
   const links = [
     { href: `${base}/#about`, label: 'About' },
     { href: `${base}/changelog`, label: 'Changelog' },
@@ -14,7 +14,7 @@
     justify-between">
     <a href={`${base}/`} class="flex items-center gap-3">
       <img
-        src={`${base}/assets/beanheads_logo.png`}
+        src={`${base}/assets/beanheads_logo_square.png`}
         alt="Beanheads"
         class="h-9 w-9 rounded-md" />
     </a>
