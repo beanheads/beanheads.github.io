@@ -1,5 +1,14 @@
 {
   "webcredentials": {
     "apps": ["W4S422RS9J.social.beanheads.app"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W4S422RS9J.social.beanheads.app",
+        "paths": ["/review/*"]
+      }
+    ]
   }
 }

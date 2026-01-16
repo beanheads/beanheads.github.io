@@ -5,13 +5,17 @@
 - [ ] Create a fully functional pantry page
 - [ ] Enable notifications
 - [ ] Add tagging friends to posts, mentions
-- [ ] Map of locations a user has posted on their profile
-- [ ] Informational pages for Beans and Cafes
-- [ ] Enable review options to edit and delete
+- [ ] Enable review options to edit
 - [ ] Enable Android deployment
 - [ ] Public Beta launch
+- [ ] Informational pages for Beans and Cafes
 
 ---
+
+## 12/21/2025
+
+### Patch Notes:
+- Beanheads Wrapped available to view on your profile for the year in review
 
 ## 12/10/2025
 
