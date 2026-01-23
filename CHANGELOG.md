@@ -12,6 +12,16 @@
 
 ---
 
+## 1/22/2026
+
+### Patch Notes:
+- Cafe vibes can be added to reviews and seen on the post
+- Cafe review wait times are now visible on the post
+- Bean origins can now be specified
+- Improved Cafe search
+- Bug fixes and performance improvement
+
+
 ## 12/21/2025
 
 ### Patch Notes:
