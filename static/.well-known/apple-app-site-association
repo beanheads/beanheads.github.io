@@ -7,7 +7,7 @@
     "details": [
       {
         "appID": "W4S422RS9J.social.beanheads.app",
-        "paths": ["/review/*"]
+        "paths": ["/review/*", "/profile/*"]
       }
     ]
   }
