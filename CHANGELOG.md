@@ -3,7 +3,6 @@
 - [ ] Add functionality for searching with beans, cafes, etc.
 - [ ] Improve search features to discover better content
 - [ ] Create a fully functional pantry page
-- [ ] Enable notifications
 - [ ] Add tagging friends to posts, mentions
 - [ ] Enable review options to edit
 - [ ] Enable Android deployment
@@ -11,6 +10,17 @@
 - [ ] Informational pages for Beans and Cafes
 
 ---
+
+## 2/9/2026
+
+### Patch Notes:
+- Added push notification support
+- Enabled share profile feature
+- Enabled adding machines and grinders to pantry from create review page
+- Profile page general enhancements/bug fixes
+- Removed Wrapped 2025
+- Color theme changes
+- General performance improvements
 
 ## 1/22/2026
 
@@ -20,7 +30,6 @@
 - Bean origins can now be specified
 - Improved Cafe search
 - Bug fixes and performance improvement
-
 
 ## 12/21/2025
 
