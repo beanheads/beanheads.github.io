@@ -77,14 +77,14 @@
           alt="Beanheads"
           class="h-12 md:h-14 w-auto mb-6" />
         <h1 class="text-4xl md:text-6xl font-bold text-night">
-          Elevate every cup.
+          Discover coffee worth sharing
         </h1>
         <p
           class="mt-6 text-night/85 text-base md:text-lg max-w-2xl font-normal">
           Beanheads is the ultimate app for coffee enthusiasts who want to
           perfect their craft, discover amazing spots, and connect with fellow
           coffee lovers worldwide. Whether you're brewing at home or exploring
-          cafes, we give you the tools and knowledge to elevate every cup.
+          cafes, we aim to help you discover coffee worth sharing.
         </p>
         <div class="mt-8 flex flex-wrap gap-4">
           <a
