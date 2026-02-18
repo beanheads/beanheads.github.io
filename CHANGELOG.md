@@ -10,6 +10,15 @@
 - [ ] Informational pages for Beans and Cafes
 
 ---
+## 2/17/2026
+
+### Patch Notes:
+- Notification bug fixes
+
+## 2/12/2026
+
+### Patch Notes:
+- Enabled editing caption and rating
 
 ## 2/9/2026
 
