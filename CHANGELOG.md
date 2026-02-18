@@ -1,10 +1,7 @@
 ## Roadmap
 
-- [ ] Add functionality for searching with beans, cafes, etc.
 - [ ] Improve search features to discover better content
 - [ ] Create a fully functional pantry page
-- [ ] Add tagging friends to posts, mentions
-- [ ] Enable review options to edit
 - [ ] Enable Android deployment
 - [ ] Public Beta launch
 - [ ] Informational pages for Beans and Cafes
