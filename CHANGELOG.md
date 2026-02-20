@@ -7,6 +7,12 @@
 - [ ] Informational pages for Beans and Cafes
 
 ---
+## 2/19/2026
+
+### Patch Notes:
+- Brew time input changed
+- Search page bug fixes
+
 ## 2/17/2026
 
 ### Patch Notes:
