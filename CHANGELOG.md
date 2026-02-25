@@ -7,6 +7,12 @@
 - [ ] Informational pages for Beans and Cafes
 
 ---
+## 2/24/2026
+
+### Patch Notes:
+- Liquid glass compatibility 
+- Comment + bean search bug fixes
+
 ## 2/19/2026
 
 ### Patch Notes:
