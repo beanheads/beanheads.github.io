@@ -7,6 +7,16 @@
 - [ ] Informational pages for Beans and Cafes
 
 ---
+## 2/28/2026
+
+### Patch Notes:
+- Enabled reporting posts
+
+## 2/26/2026
+
+### Patch Notes:
+- Users can now view their pantry and add/delete items
+
 ## 2/24/2026
 
 ### Patch Notes:
