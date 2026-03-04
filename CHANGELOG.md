@@ -1,16 +1,63 @@
 ## Roadmap
 
-- [ ] Add functionality for searching with beans, cafes, etc.
 - [ ] Improve search features to discover better content
 - [ ] Create a fully functional pantry page
-- [ ] Enable notifications
-- [ ] Add tagging friends to posts, mentions
-- [ ] Enable review options to edit
 - [ ] Enable Android deployment
 - [ ] Public Beta launch
 - [ ] Informational pages for Beans and Cafes
 
 ---
+## 2/28/2026
+
+### Patch Notes:
+- Enabled reporting posts
+
+## 2/26/2026
+
+### Patch Notes:
+- Users can now view their pantry and add/delete items
+
+## 2/24/2026
+
+### Patch Notes:
+- Liquid glass compatibility 
+- Comment + bean search bug fixes
+
+## 2/19/2026
+
+### Patch Notes:
+- Brew time input changed
+- Search page bug fixes
+
+## 2/17/2026
+
+### Patch Notes:
+- Notification bug fixes
+
+## 2/12/2026
+
+### Patch Notes:
+- Enabled editing caption and rating
+
+## 2/9/2026
+
+### Patch Notes:
+- Added push notification support
+- Enabled share profile feature
+- Enabled adding machines and grinders to pantry from create review page
+- Profile page general enhancements/bug fixes
+- Removed Wrapped 2025
+- Color theme changes
+- General performance improvements
+
+## 1/22/2026
+
+### Patch Notes:
+- Cafe vibes can be added to reviews and seen on the post
+- Cafe review wait times are now visible on the post
+- Bean origins can now be specified
+- Improved Cafe search
+- Bug fixes and performance improvement
 
 ## 12/21/2025
 

@@ -13,7 +13,7 @@
           alt="Beanheads"
           class="h-8 w-auto" />
       </div>
-      <p class="text-night/70 text-sm">Elevate every cup.</p>
+      <p class="text-night/70 text-sm">Discover coffee worth sharing</p>
     </div>
     <div>
       <h3 class="text-night font-semibold mb-3">Legal</h3>
