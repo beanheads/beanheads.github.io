@@ -27,6 +27,11 @@
         </a>
       {/each}
       <a
+        href="mailto:support@beanheads.social"
+        class="text-night/80 hover:text-night transition-colors">
+        Contact Us
+      </a>
+      <a
         href={`${base}/#download`}
         class="inline-flex items-center rounded-md bg-blackbean text-ivory px-4
         py-2 font-semibold hover:opacity-90 transition-opacity">
