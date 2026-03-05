@@ -7,6 +7,20 @@
 - [ ] Informational pages for Beans and Cafes
 
 ---
+## 3/4/2026
+
+### Patch Notes:
+- Enabled blocking users
+- Users can mark pantry beans as used
+
+## 3/3/2026
+
+### Patch Notes:
+- Enabled cafe search
+- Added cafe page navigable from review
+- Notification preferences
+- Enabled deleting account
+
 ## 2/28/2026
 
 ### Patch Notes:
