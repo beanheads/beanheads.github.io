@@ -35,7 +35,7 @@
       View this review
     </h1>
     <p class="mt-4 text-night/70">
-      Open this review in the Beanheads app to see the full details, tasting notes, and more.
+      Open this review in the Beanheads app to see the full details.
     </p>
 
     <div class="mt-8 flex flex-col gap-3">

@@ -35,7 +35,7 @@
       View @{slug}'s profile
     </h1>
     <p class="mt-4 text-night/70">
-      Open this profile in the Beanheads app to see their reviews, favorite beans, and more.
+      Open this profile in the Beanheads app to see their reviews, favorite cafes, and more.
     </p>
 
     <div class="mt-8 flex flex-col gap-3">
