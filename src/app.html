@@ -3,6 +3,23 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<!-- Route Apple platforms (iOS, iPadOS, macOS) to the App Store, where the
+		     app is available. Android/Windows/Linux stay on the site. Runs before
+		     render to avoid a flash of website content on Apple devices. -->
+		<script>
+			(function () {
+				try {
+					var ua = navigator.userAgent || navigator.vendor || '';
+					var isApple = /iPad|iPhone|iPod|Macintosh|Mac OS X/.test(ua);
+					if (isApple) {
+						window.location.replace(
+							'https://apps.apple.com/us/app/beanheads/id6752735263'
+						);
+					}
+				} catch (e) {}
+			})();
+		</script>
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
