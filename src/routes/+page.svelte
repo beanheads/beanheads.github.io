@@ -53,6 +53,8 @@
   function setActive(key: string) {
     activePhone = key
   }
+
+  const APP_STORE_URL = 'https://apps.apple.com/us/app/beanheads/id6752735263'
 </script>
 
 <style>
@@ -91,7 +93,7 @@
             href="#download"
             class="inline-flex items-center rounded-md bg-blackbean text-ivory
             px-6 py-3 font-semibold hover:opacity-90 transition-opacity">
-            Sign up for the Alpha
+            Get the App
           </a>
         </div>
         <div class="mt-3">
@@ -154,15 +156,26 @@
       Start your coffee journey today.
     </h3>
     <p class="mt-4 text-night/85 font-normal max-w-2xl mx-auto">
-      Join the Beanheads Alpha to get early access to features and help shape
-      the future of coffee.
+      Download Beanheads on iOS, or sign up for the Android Beta to get early
+      access and help shape the future of coffee.
     </p>
-    <div class="mt-8 flex items-center justify-center gap-4">
+    <div class="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
         href="https://forms.gle/tWqkQ9DUUUSmzf3c9"
         class="inline-flex items-center rounded-md bg-blackbean text-ivory px-6
         py-3 font-semibold hover:opacity-90 transition-opacity">
-        Sign up for the Alpha
+        Sign up for the Android Beta
+      </a>
+      <a
+        href={APP_STORE_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center hover:opacity-90 transition-opacity"
+        aria-label="Download on the App Store">
+        <img
+          src={`${base}/assets/download_on_app_store.svg`}
+          alt="Download on the App Store"
+          class="h-12 w-auto" />
       </a>
     </div>
   </div>
